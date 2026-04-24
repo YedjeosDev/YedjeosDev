@@ -1,13 +1,13 @@
 <!-- BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=Yendri%20Mojica&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=Yendri%20Mojica%20Ortega&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- TYPING EFFECT -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Desarrollador+en+formación;Experto+en+automatización;Python+%7C+Excel+%7C+Web;Construyendo+soluciones+reales" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Desarrollador+en+formación;Experto+en+automatización;Python+%7C+Excel;Construyendo+soluciones+reales" />
 </p>
 
 ---
