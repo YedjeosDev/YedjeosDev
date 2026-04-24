@@ -37,32 +37,7 @@
 * 🔹 Scripts en Python
 * 🔹 Macros avanzadas en Excel
 
----
 
-## 📊 Estadísticas PRO
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Racha
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Trofeos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 🚀 Proyectos Destacados
 
@@ -76,17 +51,6 @@
 
 Convertirme en un desarrollador experto, dominar la nube ☁️ y crear soluciones tecnológicas que generen impacto real.
 
----
-
-## 🌐 Conecta conmigo
-
-<p align="center">
-  <a href="https://github.com/TU-USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
 
 <!-- FOOTER -->
 
